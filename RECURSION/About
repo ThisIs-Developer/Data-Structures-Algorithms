@@ -1,0 +1,1 @@
+when a function calls itself indirectly or directly, and the function calling itself is known as a recursive function. It's generally used when the answer to a larger issue could be depicted in terms of smaller problems.
