@@ -1,24 +1,26 @@
-//Traverse of an  array
 #include<stdio.h>
-#define MAX 20
-
+#define MAX 255
 int main() {
-	int a[MAX];
-	int size,i;
-	printf("Enter the size of the array: ");
-	scanf("%d", &size);
-	if(size>MAX){
+	int arr[MAX];
+	int num,i;
+	printf("Enter the size of the array= ");
+	scanf("%d", &num);
+	if(num>MAX)
+	{
 		printf("Invalid!!\n");
 	}
-	else{
+	else
+	{
 		printf("Now, Enter the Element:\n");
-	    for(i=0; i<size;i++){
-	    	scanf("%d", &a[i]);
-    	}	
+		for(i=0; i<num;i++)
+		{
+	    		scanf("%d", &a[i]);
+    		}	
 	}
-     printf("\nARRAY::\t");
-	    for(i=0;i<size;i++){
-		    printf("%d\t", a[i]);
+     	printf("\nARRAY=\t");
+	for(i=0;i<num;i++)
+	{
+		 printf("%d\t", a[i]);
     	}
 	return 0;
 }
