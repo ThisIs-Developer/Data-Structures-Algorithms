@@ -6,19 +6,6 @@ A data structure is not only used for organizing the data. It is also used for p
 
 - [@ThisIs-Developer](https://github.com/ThisIs-Developer)
 
-## Demo
-
-```
-class CPlusPlus
-{
-    public:
-    	void Code()
-		{
-    		cout<<"Hey,ThisIs-Developer"<<endl;
-    	}
-};
-```
-
 This repository contains C based examples of many popular algorithms and data structures.
 
 ## Data Structures
