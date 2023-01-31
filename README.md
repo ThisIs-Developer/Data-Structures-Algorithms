@@ -1,6 +1,8 @@
 # Data Structures
 
 A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures.
+![205897043-e3883420-e4c2-426c-aac5-3932bd453e6f](https://user-images.githubusercontent.com/109382325/215787207-0f6771fe-7a53-4a85-8781-ae5230532aa6.png)
+
 
 ## Author
 
@@ -46,7 +48,8 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 _Big O notation_ is used to classify algorithms according to how their running time or space requirements grow as the input size grows.
 On the chart below you may find most common orders of growth of algorithms specified in Big O notation.
 
-![Big O graphs](./assets/big-o-graph.png)
+![big-o-graph](https://user-images.githubusercontent.com/109382325/215787325-1a1cfc3d-d5f4-4888-b3ff-d5345aba2e6d.jpg)
+
 
 Source: [Big O Cheat Sheet](http://bigocheatsheet.com/).
 
