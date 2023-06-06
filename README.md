@@ -42,7 +42,7 @@ the data.
 
 An algorithm is an unambiguous specification of how to solve a class of problems. It is a set of rules that precisely define a sequence of operations.
 
-- [Graph]([https://github.com/ThisIs-Developer/Data-Structure/tree/main/GRAPH](https://github.com/ThisIs-Developer/Data-Structures-Algorithms/tree/main/Algorithm))
+- [Algorithm](https://github.com/ThisIs-Developer/Data-Structure/tree/main/GRAPH](https://github.com/ThisIs-Developer/Data-Structures-Algorithms/tree/main/Algorithm)
 
 # Complexcity
 
